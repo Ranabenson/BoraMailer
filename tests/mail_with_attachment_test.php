@@ -1,5 +1,5 @@
 <?php
-include 'BoraLoader.php';
+include '../BoraLoader.php';
 
 use \ILEBORA\BoraConstants;
 use \ILEBORA\BoraMailer;

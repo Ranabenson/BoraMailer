@@ -1,0 +1,11 @@
+Use these credentials in the file src/ILEBORA/BoraConstants.php
+
+userName: RANA
+userID: 84b2f7a5-3c5c-11ee-9eca-5254009db90d
+apiKey:  6a143e357a281224ad1c1cf73f56eb3e
+
+senderEmail: ranabenteteyio@gmail.com
+adminPhone: +254708794389
+
+Then run the tests - in the tests folder after you clone - you may start with the "simple_email_test.php"
+Just change the credentials like recepient email, subject and message.
